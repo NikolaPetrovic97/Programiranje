@@ -1,0 +1,6 @@
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_4\Predavanje_4\Predavanje_4\obj\Debug\Predavanje_4.csprojResolveAssemblyReference.cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_4\Predavanje_4\Predavanje_4\bin\Debug\Predavanje_4.exe.config
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_4\Predavanje_4\Predavanje_4\bin\Debug\Predavanje_4.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_4\Predavanje_4\Predavanje_4\bin\Debug\Predavanje_4.pdb
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_4\Predavanje_4\Predavanje_4\obj\Debug\Predavanje_4.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_4\Predavanje_4\Predavanje_4\obj\Debug\Predavanje_4.pdb

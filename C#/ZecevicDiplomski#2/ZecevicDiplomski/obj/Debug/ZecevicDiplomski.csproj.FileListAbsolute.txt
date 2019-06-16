@@ -1,0 +1,54 @@
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.exe.config
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.exe
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.pdb
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.csprojResolveAssemblyReference.cache
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.kraj.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.kviz.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.logreg.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.MainForm.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.csproj.GenerateResource.Cache
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.exe
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.pdb
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.start.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.admin.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Upitanja.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Izbor.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Opitanja.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.rezultati.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Ppitanja.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.exe.config
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.exe
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.pdb
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.csprojResolveAssemblyReference.cache
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.admin.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Izbor.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.kraj.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.kviz.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.logreg.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.MainForm.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Opitanja.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Ppitanja.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.rezultati.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.start.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Upitanja.resources
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.csproj.GenerateResource.Cache
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.exe
+C:\Users\Zeka\Documents\SharpDevelop Projects\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.pdb
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.exe.config
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.exe
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\bin\Debug\ZecevicDiplomski.pdb
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.csprojResolveAssemblyReference.cache
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.admin.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Izbor.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.kraj.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.kviz.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.logreg.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.MainForm.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Opitanja.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Ppitanja.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.rezultati.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.start.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.Upitanja.resources
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.csproj.GenerateResource.Cache
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.exe
+C:\Users\Petrovici\Desktop\ZecevicDiplomski#2\ZecevicDiplomski\obj\Debug\ZecevicDiplomski.pdb

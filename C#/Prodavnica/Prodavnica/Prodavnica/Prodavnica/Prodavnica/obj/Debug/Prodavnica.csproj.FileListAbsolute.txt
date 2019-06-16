@@ -1,0 +1,67 @@
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.MainForm.resources
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form2.resources
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form3.resources
+C:\Users\Fujitsu E752\Documents\SharpDevelop Projects\Prodavnica\Prodavnica\bin\Debug\System.Data.SQLite.dll
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form2.resources
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form3.resources
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.MainForm.resources
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\Users\nikollanator\Desktop\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form2.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form3.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.MainForm.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form2.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form3.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.MainForm.resources
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\Users\nikollanator\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form2.resources
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form3.resources
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.MainForm.resources
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\Users\Petrovici\Downloads\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csprojResolveAssemblyReference.cache
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form2.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form3.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.MainForm.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.Cache
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Prodavnica\Prodavnica\Prodavnica\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb

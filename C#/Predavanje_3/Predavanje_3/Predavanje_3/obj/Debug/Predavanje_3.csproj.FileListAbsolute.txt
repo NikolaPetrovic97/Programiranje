@@ -1,0 +1,12 @@
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_3\Predavanje_3\Predavanje_3\obj\Debug\Predavanje_3.csprojResolveAssemblyReference.cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_3\Predavanje_3\Predavanje_3\bin\Debug\Predavanje_3.exe.config
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_3\Predavanje_3\Predavanje_3\bin\Debug\Predavanje_3.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_3\Predavanje_3\Predavanje_3\bin\Debug\Predavanje_3.pdb
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_3\Predavanje_3\Predavanje_3\obj\Debug\Predavanje_3.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_3\Predavanje_3\Predavanje_3\obj\Debug\Predavanje_3.pdb
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_3\Predavanje_3\Predavanje_3\bin\Debug\Predavanje_3.exe.config
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_3\Predavanje_3\Predavanje_3\bin\Debug\Predavanje_3.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_3\Predavanje_3\Predavanje_3\bin\Debug\Predavanje_3.pdb
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_3\Predavanje_3\Predavanje_3\obj\Debug\Predavanje_3.csprojResolveAssemblyReference.cache
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_3\Predavanje_3\Predavanje_3\obj\Debug\Predavanje_3.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_3\Predavanje_3\Predavanje_3\obj\Debug\Predavanje_3.pdb

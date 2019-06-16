@@ -1,0 +1,23 @@
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\obj\Debug\PjPXO.csprojResolveAssemblyReference.cache
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\obj\Debug\PjPXO.MainForm.resources
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\obj\Debug\PjPXO.MainMenu.resources
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\obj\Debug\PjPXO.csproj.GenerateResource.Cache
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\bin\Debug\PjPXO.exe.config
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\bin\Debug\PjPXO.exe
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\bin\Debug\PjPXO.pdb
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\obj\Debug\PjPXO.exe
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\obj\Debug\PjPXO.pdb
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\bin\Debug\System.Data.SQLite.dll
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\bin\Debug\System.Data.SQLite.pdb
+C:\Users\GPC2\Documents\SharpDevelop Projects\PjPXO\PjPXO\bin\Debug\System.Data.SQLite.xml
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\bin\Debug\PjPXO.exe.config
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\bin\Debug\PjPXO.exe
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\bin\Debug\PjPXO.pdb
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\bin\Debug\System.Data.SQLite.xml
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\obj\Debug\PjPXO.csprojResolveAssemblyReference.cache
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\obj\Debug\PjPXO.MainForm.resources
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\obj\Debug\PjPXO.MainMenu.resources
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\obj\Debug\PjPXO.csproj.GenerateResource.Cache
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\obj\Debug\PjPXO.exe
+C:\Users\Petrovici\Downloads\Fasic-pjprojekat-10450f672465\PjPXO\obj\Debug\PjPXO.pdb

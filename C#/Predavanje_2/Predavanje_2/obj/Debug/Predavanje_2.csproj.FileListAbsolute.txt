@@ -1,0 +1,36 @@
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe.config
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.pdb
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.Form1.resources
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.MainForm.resources
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csproj.GenerateResource.Cache
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.exe
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.pdb
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe.config
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.pdb
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.Form1.resources
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.MainForm.resources
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csproj.GenerateResource.Cache
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.exe
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.pdb
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe.config
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.pdb
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csprojResolveAssemblyReference.cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.Form1.resources
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.MainForm.resources
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csproj.GenerateResource.Cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.pdb
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe.config
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\bin\Debug\Predavanje_2.pdb
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csprojResolveAssemblyReference.cache
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.Form1.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.MainForm.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.csproj.GenerateResource.Cache
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_2\Predavanje_2\obj\Debug\Predavanje_2.pdb

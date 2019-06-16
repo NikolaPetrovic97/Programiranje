@@ -1,0 +1,42 @@
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe.config
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.pdb
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csprojResolveAssemblyReference.cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.MainForm.resources
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csproj.GenerateResource.Cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\New folder\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.pdb
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csprojResolveAssemblyReference.cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.MainForm.resources
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csproj.GenerateResource.Cache
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.pdb
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe.config
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe
+C:\Users\student\Videos\Nikola Petrovic\PJP\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.pdb
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe.config
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.pdb
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.MainForm.resources
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csproj.GenerateResource.Cache
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.exe
+C:\Users\Nikola\Documents\PJP\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.pdb
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe.config
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.pdb
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.MainForm.resources
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csproj.GenerateResource.Cache
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.exe
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.pdb
+C:\Users\Nikola\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.Form1.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe.config
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\bin\Debug\Predavanje_1.pdb
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csprojResolveAssemblyReference.cache
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.Form1.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.MainForm.resources
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.csproj.GenerateResource.Cache
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.exe
+C:\Users\Petrovici\Documents\PJP\Vezbe\Predavanje_1\Predavanje_1\obj\Debug\Predavanje_1.pdb

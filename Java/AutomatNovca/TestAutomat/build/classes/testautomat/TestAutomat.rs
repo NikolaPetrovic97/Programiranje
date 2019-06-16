@@ -1,0 +1,2 @@
+testautomat.AutomatNovca
+testautomat.TestAutomat
